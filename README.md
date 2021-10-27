@@ -23,7 +23,7 @@ The _Predictor_ file includes many options for providing your input:
 
 
 * **no.ofSteps**:    Another number input. The model would output predictions for those many steps into the future from the latest date available in the data.
-Eg : If no.ofSteps = 120, The model would output predictions from **Jan 1st 2020 00:00 to Jan 5th 2020 00:00**. Each step corresponds to 1 hour.
+Eg : If no.ofSteps = 120, The model would output predictions from **Jan 1st 2020 00:00** to **Jan 5th 2020 00:00**. Each step corresponds to 1 hour.
 
 * **datestring** :   Enter a date in the string format, the predictions would correspond to that date.
 
